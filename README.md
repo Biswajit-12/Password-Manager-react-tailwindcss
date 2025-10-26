@@ -31,5 +31,3 @@ This app allows users to securely store, view, and manage their passwords — al
 
 ---
 
-## 📁 Folder Structure
-
